@@ -2660,10 +2660,10 @@ grapheme-breaker@^0.3.2:
     brfs "^1.2.0"
     unicode-trie "^0.3.1"
 
-"gsap@npm:@gsap/business":
+gsap@gsap:
   version "3.11.4"
-  resolved "https://npm.greensock.com/@gsap%2fbusiness/-/business-3.11.4.tgz#df8b2081459e7f1fc1299220698ee4d55435c02e"
-  integrity sha512-+rAtCKKYO+EXUSSjQdkk5EEyZEC+FKJGinwTzQCpMfyCZN/n2ogtSH2HAP80S4gRGhCjBJeNxwyHrnUvHNDlyA==
+  resolved "https://registry.yarnpkg.com/gsap/-/gsap-3.11.4.tgz#e6d972d3509a7431b86d81d6fc3bbeb6862e5ff1"
+  integrity sha512-McHhEguHyExMMnjqKA8G+7TvxmlKQGMbjgwAilnFe1e4id7V/tFveRQ2YMZhTYu0oxHGWvbPltdVYQOu3z1SCA==
 
 har-schema@^2.0.0:
   version "2.0.0"

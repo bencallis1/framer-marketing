@@ -8,7 +8,7 @@
     "build": "parcel build index.html"
   },
   "dependencies": {
-    "gsap": "npm:@gsap/business",
+    "gsap": "gsap",
     "jquery": "^3.6.3",
     "parcel-bundler": "^1.6.1",
     "split-type": "^0.3.3"
